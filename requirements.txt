@@ -1,0 +1,8 @@
+gradio
+PyMuPDF
+sentence-transformers
+scikit-learn
+numpy
+pandas
+requests
+python-docx
